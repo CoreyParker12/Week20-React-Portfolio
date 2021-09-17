@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Week20-React-Portfolio/static/css/main.e0a1a56f.chunk.css",
-    "main.js": "/Week20-React-Portfolio/static/js/main.c26796ac.chunk.js",
-    "main.js.map": "/Week20-React-Portfolio/static/js/main.c26796ac.chunk.js.map",
+    "main.css": "/Week20-React-Portfolio/static/css/main.f82bea9b.chunk.css",
+    "main.js": "/Week20-React-Portfolio/static/js/main.7c532efe.chunk.js",
+    "main.js.map": "/Week20-React-Portfolio/static/js/main.7c532efe.chunk.js.map",
     "runtime-main.js": "/Week20-React-Portfolio/static/js/runtime-main.20b019e9.js",
     "runtime-main.js.map": "/Week20-React-Portfolio/static/js/runtime-main.20b019e9.js.map",
     "static/js/2.102548e6.chunk.js": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js",
     "static/js/2.102548e6.chunk.js.map": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js.map",
     "index.html": "/Week20-React-Portfolio/index.html",
-    "precache-manifest.96f457d71d3e2badce3aa5189aa6a115.js": "/Week20-React-Portfolio/precache-manifest.96f457d71d3e2badce3aa5189aa6a115.js",
+    "precache-manifest.f82c8a686c343d65eab096fd2df1c294.js": "/Week20-React-Portfolio/precache-manifest.f82c8a686c343d65eab096fd2df1c294.js",
     "service-worker.js": "/Week20-React-Portfolio/service-worker.js",
-    "static/css/main.e0a1a56f.chunk.css.map": "/Week20-React-Portfolio/static/css/main.e0a1a56f.chunk.css.map",
+    "static/css/main.f82bea9b.chunk.css.map": "/Week20-React-Portfolio/static/css/main.f82bea9b.chunk.css.map",
     "static/js/2.102548e6.chunk.js.LICENSE.txt": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Corey.JPG": "/Week20-React-Portfolio/static/media/Corey.f3fb7aaa.JPG",
     "static/media/calculator.jpg": "/Week20-React-Portfolio/static/media/calculator.a19f2b67.jpg",
-    "static/media/cover-image.jpg": "/Week20-React-Portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/codequiz-logo.jpg": "/Week20-React-Portfolio/static/media/codequiz-logo.b0921f05.jpg",
     "static/media/led-wall.jpg": "/Week20-React-Portfolio/static/media/led-wall.653c2b3d.jpg",
     "static/media/pastel-puzzels.jpg": "/Week20-React-Portfolio/static/media/pastel-puzzels.ed494730.jpg",
     "static/media/run-buddy.jpg": "/Week20-React-Portfolio/static/media/run-buddy.938f8fe0.jpg",
-    "static/media/surf-report.jpg": "/Week20-React-Portfolio/static/media/surf-report.12557c9b.jpg"
+    "static/media/surf-report.jpg": "/Week20-React-Portfolio/static/media/surf-report.52303b3b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.20b019e9.js",
     "static/js/2.102548e6.chunk.js",
-    "static/css/main.e0a1a56f.chunk.css",
-    "static/js/main.c26796ac.chunk.js"
+    "static/css/main.f82bea9b.chunk.css",
+    "static/js/main.7c532efe.chunk.js"
   ]
 }
