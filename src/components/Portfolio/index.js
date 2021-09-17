@@ -1,39 +1,39 @@
 import React, { useState } from 'react';
 import Project from "../Project";
 
+
 function Portfolio() {
 
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'getHAPI-logo',
+      description: 'Get HAPI',
+      link: "https://coreyparker12.github.io/Project-1-getHAPI/",
+      repo: "https://github.com/CoreyParker12/Project-1-getHAPI"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'led-wall',
+      description: 'Stinky Bass',
+      link: "http://stinkybass.com/",
     },
     {
       name: 'run-buddy',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://coreyparker12.github.io/Week6-WeatherAPI-CP/",
+      repo: "https://github.com/CoreyParker12/Week6-WeatherAPI-CP"
     },
     {
       name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      description: 'Toolin\' Around',
+      link: "https://toolin-around.herokuapp.com/",
+      repo: "https://github.com/CoreyParker12/Toolin-Around"
     },
     {
       name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      description: 'Simple Tech',
+      link: "https://tech-blog-coreyparker.herokuapp.com/",
+      repo: "https://github.com/CoreyParker12/Week14-Tech-Blog"
     },
   ]);
 
