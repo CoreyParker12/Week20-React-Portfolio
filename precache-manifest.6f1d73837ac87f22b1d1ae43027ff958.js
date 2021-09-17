@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf0f830d3a615c008374a63156d7a233",
+    "revision": "d0d39bd82214c8d3a1c87b9b846a1d9d",
     "url": "/Week20-React-Portfolio/index.html"
   },
   {
-    "revision": "2880fcd096b47946d1d6",
+    "revision": "4abb6df244a521a7d4b8",
     "url": "/Week20-React-Portfolio/static/css/main.f82bea9b.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2880fcd096b47946d1d6",
-    "url": "/Week20-React-Portfolio/static/js/main.7c532efe.chunk.js"
+    "revision": "4abb6df244a521a7d4b8",
+    "url": "/Week20-React-Portfolio/static/js/main.28d98c15.chunk.js"
   },
   {
     "revision": "9335a623faad61bedaea",
     "url": "/Week20-React-Portfolio/static/js/runtime-main.20b019e9.js"
+  },
+  {
+    "revision": "b0921f05335c86d438a1f8ba7f78427f",
+    "url": "/Week20-React-Portfolio/static/media/Code-Quiz.b0921f05.jpg"
   },
   {
     "revision": "f3fb7aaacc7496256e332b2f815d1a3e",
@@ -30,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a19f2b67a0540f784bf091db8e36c82a",
     "url": "/Week20-React-Portfolio/static/media/calculator.a19f2b67.jpg"
-  },
-  {
-    "revision": "b0921f05335c86d438a1f8ba7f78427f",
-    "url": "/Week20-React-Portfolio/static/media/codequiz-logo.b0921f05.jpg"
   },
   {
     "revision": "653c2b3d29f66a3c6e957518f3bd16f0",
