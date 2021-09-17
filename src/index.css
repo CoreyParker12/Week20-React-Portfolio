@@ -9,7 +9,7 @@ main {
   --tertiary: #b12704;
   --light: #fafafa;
   --dark: #799FBA;
-  --darker: #1F3B60;
+  --darker: #7c7c7c;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -185,8 +185,8 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
-  font-size: 2.5rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
   margin: 30px 20px;
 }
 
