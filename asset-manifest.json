@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Week20-React-Portfolio/static/css/main.f82bea9b.chunk.css",
+    "main.css": "/Week20-React-Portfolio/static/css/main.3719e86a.chunk.css",
     "main.js": "/Week20-React-Portfolio/static/js/main.1bc3b3c9.chunk.js",
     "main.js.map": "/Week20-React-Portfolio/static/js/main.1bc3b3c9.chunk.js.map",
     "runtime-main.js": "/Week20-React-Portfolio/static/js/runtime-main.20b019e9.js",
@@ -8,9 +8,9 @@
     "static/js/2.102548e6.chunk.js": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js",
     "static/js/2.102548e6.chunk.js.map": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js.map",
     "index.html": "/Week20-React-Portfolio/index.html",
-    "precache-manifest.ebe48ed10db4bde053f009ea78818af4.js": "/Week20-React-Portfolio/precache-manifest.ebe48ed10db4bde053f009ea78818af4.js",
+    "precache-manifest.51cb279a8437cb1f6956878cca9e9d3c.js": "/Week20-React-Portfolio/precache-manifest.51cb279a8437cb1f6956878cca9e9d3c.js",
     "service-worker.js": "/Week20-React-Portfolio/service-worker.js",
-    "static/css/main.f82bea9b.chunk.css.map": "/Week20-React-Portfolio/static/css/main.f82bea9b.chunk.css.map",
+    "static/css/main.3719e86a.chunk.css.map": "/Week20-React-Portfolio/static/css/main.3719e86a.chunk.css.map",
     "static/js/2.102548e6.chunk.js.LICENSE.txt": "/Week20-React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
     "static/media/Code-Quiz.jpg": "/Week20-React-Portfolio/static/media/Code-Quiz.b0921f05.jpg",
     "static/media/Corey.JPG": "/Week20-React-Portfolio/static/media/Corey.f3fb7aaa.JPG",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.20b019e9.js",
     "static/js/2.102548e6.chunk.js",
-    "static/css/main.f82bea9b.chunk.css",
+    "static/css/main.3719e86a.chunk.css",
     "static/js/main.1bc3b3c9.chunk.js"
   ]
 }
