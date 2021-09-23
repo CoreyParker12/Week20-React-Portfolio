@@ -13,24 +13,24 @@ function Nav(props) {
   }, [currentPage]);
 
   return (    
-      <nav>
-        <ul className="flex-row">
-          {pages.map((Page) => (
-            <li
-              className={`mx-5 ${
-                currentPage.name === Page.name && 'navActive'
-                }`}
-              key={Page.name}
-            >
-              <span
-                onClick={() => setCurrentPage(Page)}
+        <nav>
+          <ul className="flex-row">
+            {pages.map((Page) => (
+              <li
+                className={`mx-5 ${
+                  currentPage.name === Page.name && 'navActive'
+                  }`}
+                key={Page.name}
               >
-                {capitalizeFirstLetter(Page.name)}
-              </span>
-            </li>
-          ))}
-        </ul>
-      </nav>
+                <span
+                  onClick={() => setCurrentPage(Page)}
+                >
+                  {capitalizeFirstLetter(Page.name)}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </nav>
   );
 }
 
